@@ -1,0 +1,6 @@
+client_id = "a5fc730f1c9a4d5c8e71815b4c4bd8db"
+client_secret = "d9c3d51c04044887b29b591de5c9d8db"
+username = "efekaanefe"
+# redirect_uri = "http%3A%2F%2Flocalhost%2F"
+redirect_uri = "http://localhost:8080"
+playlist_id = "0IBhBtOeS0OIKsK1fdEDy3"
